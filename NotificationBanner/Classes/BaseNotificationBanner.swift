@@ -19,7 +19,6 @@
 import UIKit
 import SnapKit
 
-import MarqueeLabel
 
 public protocol NotificationBannerDelegate: AnyObject {
     func notificationBannerWillAppear(_ banner: BaseNotificationBanner)
